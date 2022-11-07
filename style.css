@@ -438,7 +438,7 @@ footer ul li:hover {
 
   footer {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   footer ul {
     list-style-type: none;
